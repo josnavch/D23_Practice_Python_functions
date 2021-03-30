@@ -16,6 +16,9 @@
         "actions": [
             "build",
             "test",
+            "reset",
+            "build",
+            "test",
             "reset"
         ]
     },
@@ -106,6 +109,11 @@
                     "hidden": true
                 },
                 {
+                    "path": "exercises/02-Hello-World/__pycache__",
+                    "name": "__pycache__",
+                    "hidden": true
+                },
+                {
                     "path": "exercises/02-Hello-World/app.py",
                     "name": "app.py",
                     "hidden": false
@@ -116,7 +124,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 2,
@@ -141,6 +149,11 @@
                     "hidden": true
                 },
                 {
+                    "path": "exercises/03-What-is-a-function/__pycache__",
+                    "name": "__pycache__",
+                    "hidden": true
+                },
+                {
                     "path": "exercises/03-What-is-a-function/app.py",
                     "name": "app.py",
                     "hidden": false
@@ -151,7 +164,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 3,
@@ -176,6 +189,11 @@
                     "hidden": true
                 },
                 {
+                    "path": "exercises/04-Call-a-function/__pycache__",
+                    "name": "__pycache__",
+                    "hidden": true
+                },
+                {
                     "path": "exercises/04-Call-a-function/app.py",
                     "name": "app.py",
                     "hidden": false
@@ -186,7 +204,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 4,
@@ -211,6 +229,11 @@
                     "hidden": true
                 },
                 {
+                    "path": "exercises/05-Defining-vs-Calling-a-function/__pycache__",
+                    "name": "__pycache__",
+                    "hidden": true
+                },
+                {
                     "path": "exercises/05-Defining-vs-Calling-a-function/app.py",
                     "name": "app.py",
                     "hidden": false
@@ -221,7 +244,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 5,
@@ -246,6 +269,11 @@
                     "hidden": true
                 },
                 {
+                    "path": "exercises/06-lambda-functions/__pycache__",
+                    "name": "__pycache__",
+                    "hidden": true
+                },
+                {
                     "path": "exercises/06-lambda-functions/app.py",
                     "name": "app.py",
                     "hidden": false
@@ -256,7 +284,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 6,
@@ -278,6 +306,11 @@
                 {
                     "path": "exercises/07-lambda-function-two/README.md",
                     "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/07-lambda-function-two/__pycache__",
+                    "name": "__pycache__",
                     "hidden": true
                 },
                 {
@@ -316,6 +349,11 @@
                     "hidden": true
                 },
                 {
+                    "path": "exercises/08-Function-that-returns/__pycache__",
+                    "name": "__pycache__",
+                    "hidden": true
+                },
+                {
                     "path": "exercises/08-Function-that-returns/app.py",
                     "name": "app.py",
                     "hidden": false
@@ -348,6 +386,11 @@
                 {
                     "path": "exercises/09-Function-parameters/README.md",
                     "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/09-Function-parameters/__pycache__",
+                    "name": "__pycache__",
                     "hidden": true
                 },
                 {
@@ -386,6 +429,11 @@
                     "hidden": true
                 },
                 {
+                    "path": "exercises/10-Array-Methods/__pycache__",
+                    "name": "__pycache__",
+                    "hidden": true
+                },
+                {
                     "path": "exercises/10-Array-Methods/app.py",
                     "name": "app.py",
                     "hidden": false
@@ -396,7 +444,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         }
     ]
 }
