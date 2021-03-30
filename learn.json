@@ -116,7 +116,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 2,
@@ -151,7 +151,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 3,
@@ -186,7 +186,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 4,
@@ -221,7 +221,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 5,
@@ -256,7 +256,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 6,
